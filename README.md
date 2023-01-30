@@ -71,6 +71,8 @@ As a personal note, I don't have a public portfolio on github or personal websit
 
 # Here is Beka
 
-Check the PR for a hi-res video.
+Check the PR for a hi-res video: [https://github.com/trikanna/beka/pull/1](https://github.com/trikanna/beka/pull/1)
+
+***
 
 ![Beka In Action](BekaGif.gif)
