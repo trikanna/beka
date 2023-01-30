@@ -67,7 +67,9 @@ As a personal note, I don't have a public portfolio on github or personal websit
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-# PS: Here is Beka
+**PS**: was not part of the requirements, but `a11y` (worked on `AA` and `AAA` grade projects in the past), `i18n` and locales handled via `t(🍵)` are quite often part of application's scaffoldings and lastly `data-testId` should be there to facilitate e2e selectors. Not present in this code.
+
+# Here is Beka
 
 Check the PR for a hi-res video.
 
